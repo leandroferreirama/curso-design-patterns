@@ -1,1 +1,1 @@
-# curso-design-pattems
+# curso-design-patterns
